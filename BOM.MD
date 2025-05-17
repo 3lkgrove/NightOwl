@@ -1,5 +1,7 @@
 # BOM
 
+Note: This BOM is exported from the BOM.XLSX file. It is a combination of all the BOMS to build a complete unit. The XLSX is able to be filtered and sorted by groups and parts. It also lists all printed parts. 
+
 ITEM NAME | QTY | NOTES
 --- | --- | ---
 4010 AXIAL FAN | 1 | 
@@ -58,4 +60,3 @@ M3x8 SHCS | 4 | REQUIRED IF USING TURTLE NECK BUFFER
 M3 HEATSERTS M3x4x5 | 3 | 
 M3x20 BHCS | 3 | 
 
-## Note: This BOM is exported from the BOM.XLSX file. It is a combination of all the BOMS to build a complete unit. The XLSX is able to be filtered and sorted by groups and parts. It also lists all printed parts. 
