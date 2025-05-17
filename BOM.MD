@@ -1,6 +1,6 @@
 # BOM
 
-##Note: THis BOM is exported from the BOM.XLSX file. It is a combination of all the BOMS to build a complete unit. The XLSX is able to be filtered and sorted by groups and parts. It also lists all printed parts. 
+## Note: This BOM is exported from the BOM.XLSX file. It is a combination of all the BOMS to build a complete unit. The XLSX is able to be filtered and sorted by groups and parts. It also lists all printed parts. 
 
 ITEM NAME | QTY | NOTES
 --- | --- | ---
